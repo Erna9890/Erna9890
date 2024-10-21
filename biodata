@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata Lengkap</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-width: 600px;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .info {
+            margin: 10px 0;
+        }
+        .label {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Biodata Diri</h1>
+    <div class="info">
+        <span class="label">Nama:</span> Ernawati
+    </div>
+    <div class="info">
+        <span class="label">Tanggal Lahir:</span> 24 September 2003
+    </div>
+    <div class="info">
+        <span class="label">Alamat:</span> Cendana RT 05 RW 02, Kec. Kutasari, Purbalingga
+    </div>
+    <div class="info">
+        <span class="label">No. Telepon:</span> 0831-0402-0051
+    </div>
+    <div class="info">
+        <span class="label">Email:</span> ernn9890@gmail.com
+    </div>
+    <div class="info">
+        <span class="label">Pendidikan:</span> S1 Teknik Informatika
+    </div>
+    <div class="info">
+        <span class="label">Pekerjaan:</span> cashier
+    </div>
+    <div class="info">
+        <span class="label">Hobi:</span> hiking, menggambar, travelling
+    </div>
+</div>
+
+</body>
+</html>
